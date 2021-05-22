@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://elixirvn.herokuapp.com",
-    "contentApiKey": "f11a0dd7ed8aeb53b1e4f62866"
+    "apiUrl": "https://elixirvn.digitalpress.blog",
+    "contentApiKey": "d213127167f85d69466216c5bc"
   },
   "production": {
-    "apiUrl": "https://elixirvn.herokuapp.com",
-    "contentApiKey": "f11a0dd7ed8aeb53b1e4f62866"
+    "apiUrl": "https://elixirvn.digitalpress.blog",
+    "contentApiKey": "d213127167f85d69466216c5bc"
   }
 }
